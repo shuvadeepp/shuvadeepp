@@ -41,7 +41,6 @@
 ###
 
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/shuvadeepp/shuvadeepp/output/snake.svg" alt="Snake animation" />
 
 ###
