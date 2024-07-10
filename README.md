@@ -27,6 +27,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
   <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL logo"  />
+   <img width="12" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/react-original.svg" height="30" alt="React logo"  />
 </div>
 
 ###
